@@ -1,0 +1,19 @@
+body{
+    overflow-x: hidden;
+}
+.w-default{
+    width: 400px;
+    margin-left: -20rem;
+    margin-top: 2rem;
+}
+
+/* .a-default{
+    width: 500px;
+    margin-left: -20rem;
+    margin-top: 2rem;
+} */
+/* .b-default{
+    width: 400px;
+    margin-left: -20rem;
+    margin-top: 2rem;
+} */
