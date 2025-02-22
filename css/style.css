@@ -19,6 +19,6 @@ body{
 } */
 @media screen and (max-width: 768){
     body{
-        overflow-x: hidden;
+        overflow-xa: hidden;
     }
 }
