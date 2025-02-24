@@ -1,12 +1,29 @@
-body{
+/* body{
     overflow-x: hidden;
-}
+} */
+ /* *{
+    outline: 1px solid red;
+ } */
 .w-default{
     width: 400px;
+    /* max-height: 300px; */
     margin-left: -20rem;
-    margin-top: 2rem;
+     margin-top: 2rem;
+    
 }
-
+.titre{
+    font-weight: 800;
+}
+.multi{
+    margin: 0;
+}
+.demo{
+    background-color: lightblue;
+    border-radius: 8px;
+    width: 100px;
+    color: blue;
+    margin-left: 45%;
+}
 /* .a-default{
     width: 500px;
     margin-left: -20rem;
@@ -17,8 +34,8 @@ body{
     margin-left: -20rem;
     margin-top: 2rem;
 } */
-@media screen and (max-width: 768){
+/* @media screen and (max-width: 768){
     body{
         overflow-x: hidden;
     }
-}
+} */
