@@ -45,9 +45,14 @@
  @media screen and (max-width: 768px){
     .dropdown-menu{
         width: 90%;
-        margin-left: 0 !important;
+        margin-left: -1rem !important;
         margin-right: 0 !important;
 
     }
+    /* .land{
+        width: 85%;
+        margin-left: -600px;
+
+    } */
 }
  
