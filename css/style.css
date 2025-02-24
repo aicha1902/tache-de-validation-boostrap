@@ -54,5 +54,18 @@
         margin-left: -600px;
 
     } */
+     .texte{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+     }
+     .demo{
+        background-color: lightblue;
+        border-radius: 8px;
+        width: 100px;
+        color: blue;
+        margin-left: 2%;
+    }
 }
  
