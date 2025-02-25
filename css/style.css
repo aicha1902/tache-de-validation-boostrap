@@ -42,6 +42,21 @@
     margin-left: -20rem;
     margin-top: 2rem;
 } */
+   div .liste:hover{
+    cursor: pointer;
+    background-color: gray;
+ }
+ .doc:hover{
+    cursor: pointer;
+    text-decoration: underline !important;
+ }
+ .cartes:hover{
+    transition: transform 0.3s ease-in-out;
+ }
+ 
+ .cartes:hover{
+    transform: translateY(-10px);
+ }
  @media screen and (max-width: 768px){
     .dropdown-menu{
         width: 90%;
