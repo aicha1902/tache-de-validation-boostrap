@@ -67,5 +67,16 @@
         color: blue;
         margin-left: 2%;
     }
+    .carte img{
+        display: none;
+    }
+     .view-button{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    } 
+    .view{
+        width: 1px;
+    }
 }
  
